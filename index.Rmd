@@ -71,6 +71,7 @@ suppressMessages(
 ```
 
 ### Map
+
 This U.S. map illustrates the prison population ratio for each state, calculated by considering the state's jail population and the ratio between its population. States are depicted in darker colors to represent higher numbers of inmates. The map provides a comprehensive view of incarceration distribution across the United States.
 
 Upon analyzing the visual representation, it becomes evident that Louisiana ranks at the forefront in terms of prison population ratio, implying either higher crime rates or stricter state laws. Following closely are Kentucky, New Mexico, Mississippi, and Tennessee. While some variations exist among other states, the differences are relatively smaller. Additionally, the Northeast region exhibits a lower prison population ratio, indicating comparatively lower crime rates compared to other states in the country.
